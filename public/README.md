@@ -1,6 +1,6 @@
 # WesoBlog 🚀📝
 
-<p>Welcome to **WesoBlog** – a developer blog where we document the journey of building our social media app from scratch (and yes, writing this makes us feel productive).</p>
+Welcome to **WesoBlog** – a developer blog where we document the journey of building our social media app from scratch (and yes, writing this makes us feel productive).
 
 This project isn’t just about shipping features – it’s about sharing the build process, challenges, and experiments in real-time.
 
